@@ -1,11 +1,11 @@
-# ReformerImp
+# ViT
 ---
-Reformerの実装をするためのリポジトリ
+ViTの実装をするためのリポジトリ
 ## Quick Start
 
 1. リポジトリをclone
    ```bash
-   git clone https://github.com/odango314159/ReformerImp.git
+   git clone https://github.com/odango314159/ViTImp.git
    ```
 2. dockerイメージを作成する。dockerディレクトリに移動して以下を行う
    ```bash
