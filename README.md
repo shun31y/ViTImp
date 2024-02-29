@@ -1,4 +1,4 @@
-# ViT
+# ViTImp
 ---
 ViTの実装をするためのリポジトリ
 ## Quick Start
