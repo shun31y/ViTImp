@@ -1,0 +1,14 @@
+jupyterlab
+scikit-learn
+torch
+numpy
+importnb
+flake8
+black
+isort
+torchvison
+wandb
+matplotlib
+pillow
+tqdm
+einops
