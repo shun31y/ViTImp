@@ -11,5 +11,10 @@ RUN pip install importnb
 RUN pip install flake8
 RUN pip install black
 RUN pip install isort
+RUN pip install torchvison
+RUN pip install wandb
+RUN pip install matplotlib
+RUN pip install pillow
+RUN pip install tqdm
 # Jupyter Labの起動コマンド設定
 CMD ["jupyter", "lab", "--ip=0.0.0.0", "--allow-root", "--NotebookApp.token=''", "--NotebookApp.password=''"]
